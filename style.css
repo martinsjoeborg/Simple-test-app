@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(176, 94, 35);
+}
+
+#content {
+    /* position: static; */
+    position: relative;
+    top: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+

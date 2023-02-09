@@ -1,3 +1,6 @@
 export default class Question {
-    constructor(question, anwser)
+    constructor(question, answer) {
+        this.question = question;
+        this.answer = answer;
+    }
 }
